@@ -1,3 +1,6 @@
 # chromebook-bypass-eol
 
 This is a VERY quick mod. NO SUPPORT IS GIVEN FOR THIS!
+![image](https://github.com/user-attachments/assets/bfa7d0bc-928c-4f54-8953-99078f9b1d74)
+![image](https://github.com/user-attachments/assets/c54db599-782d-4890-b9d9-b87d0c20e186)
+![image](https://github.com/user-attachments/assets/5cee57e7-89a5-4bff-b725-fa0166408963)
