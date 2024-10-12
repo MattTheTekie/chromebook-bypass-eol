@@ -1,4 +1,4 @@
-# chromebook-bypass-eol
+# Modification of the famous mrchromebox script to allow legacy BIOS flashing regardless of if he wants it to or not as it worked flawlessly back in the day.
 
 This is a VERY quick mod. NO SUPPORT IS GIVEN FOR THIS!
 ![image](https://github.com/user-attachments/assets/bfa7d0bc-928c-4f54-8953-99078f9b1d74)
