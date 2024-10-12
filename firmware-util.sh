@@ -15,7 +15,7 @@
 script_dir="$(dirname $(readlink -f $0))"
 
 #where the stuff is
-script_url="https://raw.githubusercontent.com/MattTheTekie/chromebook-bypass-eol/main/"
+script_url="https://raw.githubusercontent.com/MattTheTekie/chromebook-legacy-patcher/main/"
 
 #ensure output of system tools in en-us for parsing
 export LC_ALL=C
